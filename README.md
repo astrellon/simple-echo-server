@@ -31,6 +31,6 @@ Will return
 **Body: **
 ```json
 {
-    text: "Text to echo"
+    "text": "Text to echo"
 }
 ```
